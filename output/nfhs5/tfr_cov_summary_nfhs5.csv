@@ -1,0 +1,4 @@
+tfr_cat2,n_districts,mean_education,median_education,mean_contraception,median_contraception,mean_urban,median_urban,mean_poor,median_poor
+<2.1,513,8.08,8.08,43.23,43.62,29.56,24.53,34.57,31.23
+2.1 to 3,162,6.51,6.51,36.33,35.84,18.82,17.7,57.46,59.73
+3+,32,5.09,5.09,28.21,30.93,10.83,10.73,74.33,76.41

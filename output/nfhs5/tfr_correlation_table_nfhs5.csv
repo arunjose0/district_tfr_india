@@ -1,0 +1,5 @@
+Covariate,Correlation_with_TFR,R_squared,p_value
+Modern Contraception (%),-0.324,0.105,<0.001
+Female Education (years),-0.55,0.302,<0.001
+% in Poorest/Poorer Quintiles,0.492,0.242,<0.001
+% Rural Population,0.308,0.095,<0.001
